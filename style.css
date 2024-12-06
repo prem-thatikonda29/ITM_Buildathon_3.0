@@ -201,6 +201,17 @@ body {
   /* background-color: rgba(248, 245, 245, 0.2); */
 }
 
+.list_links {
+  list-style: none;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.list_links a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .track_subhead {
   color: #fff;
   font-size: 2rem;
