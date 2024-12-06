@@ -79,8 +79,7 @@ body {
 .description {
   position: absolute;
   color: #edae32;
-  -webkit-text-stroke: 4px rgb(255, 255, 255, 0.6);
-  font-weight: 300;
+  -webkit-text-stroke: 4px #fff;
   font-style: normal;
   font-size: 5.8rem;
   margin-top: 20px;
