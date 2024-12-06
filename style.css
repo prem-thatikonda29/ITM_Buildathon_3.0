@@ -262,6 +262,7 @@ td {
   background-color: #010101;
   color: #fff;
   padding: 50px 100px;
+  display: flex;
 }
 
 .problem_heading {
@@ -276,4 +277,20 @@ td {
 
 #hero {
   margin-top: 0;
+}
+
+.problem_box1 {
+  width: 70%;
+}
+
+.problem_box2 {
+  width: 30%;
+  display: flex;
+  align-items: flex-end;
+  overflow-x: hidden;
+}
+
+.problem_box2 img {
+  align-self: flex-end;
+  transform: scale(1.2);
 }
